@@ -1,13 +1,44 @@
-<h1>Nodejs Full-stack Todo-App</h1>
-<h3>Description</h3>
-<p>
-  This repository contains a straightforward full-stack todo application built with Node.js, Express.js, EJS template engine, and MongoDB. It is basic full-stack application which offers a practical example of building a CRUD application with a backend API and a frontend interface.
-</p>
-<h3>Installation</h3>
-Install MongoDb Database
-```bash
-https://github.com/abhi5-art/todo-app.git
-cd todo-app
-npm install
-```
+# Todo App - Fullstack CRUD Application
 
+A simple yet powerful todo application built with Node.js, Express.js, EJS, and MongoDB. Perfect for learning full-stack development fundamentals.
+
+![Todo App Screenshot](https://via.placeholder.com/600x400?text=Todo+App+Screenshot) *(Add real screenshot URL here)*
+
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+
+## Features
+✅ **Full CRUD Operations**  
+- Add, update, and delete todos  
+- Search and filter functionality  
+- Pagination support  
+
+✅ **Modern Tech Stack**  
+- Node.js backend with Express  
+- EJS templating engine  
+- MongoDB database  
+
+✅ **Educational Focus**  
+- Well-documented code  
+- Perfect for Udemy/classroom use  
+- Scalable architecture  
+
+## Installation
+
+### Prerequisites
+- Node.js (v14+)  
+- MongoDB installed locally or cloud connection string  
+
+### Setup
+```bash
+# Clone the repository
+git clone https://github.com/jahidhiron/todo-app.git
+
+# Navigate to project directory
+cd todo-app
+
+# Install dependencies
+npm install
