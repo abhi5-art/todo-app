@@ -5,4 +5,8 @@
 </p>
 <h3>Installation</h3>
 Install MongoDb Database
+```bash
+https://github.com/abhi5-art/todo-app.git
+cd todo-app
+npm install
 
