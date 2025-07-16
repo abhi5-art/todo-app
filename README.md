@@ -5,3 +5,7 @@
 </p>
 <h3>Installation</h3>
 Install MongoDb Database
+
+git clone https://github.com/jahidhiron/todo-app.git
+cd todo-app
+npm install
