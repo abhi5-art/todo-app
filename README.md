@@ -5,7 +5,7 @@ A simple yet powerful todo application built with Node.js, Express.js, EJS, and 
 ## Features
 ✅ **Full CRUD Operations**  
 - Add, update, and delete todos
-- 
+  
 ✅ **Modern Tech Stack**  
 - Node.js backend with Express  
 - EJS templating engine  
